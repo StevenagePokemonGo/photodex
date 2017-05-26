@@ -1,10 +1,4 @@
-assets/
-scripts/
-styles/
-snaps/*.png
-snaps/**/missingno.*
-
-# Created by https://www.gitignore.io/api/node
+.DS_STORE
 
 ### Node ###
 # Logs
