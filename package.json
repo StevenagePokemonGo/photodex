@@ -2,6 +2,9 @@
   "name": "photodex",
   "version": "1.0.0",
   "description": "Gotta snap 'em all!",
+  "engines": {
+     "node": "7.10.0"
+  },
   "private": true,
   "scripts": {
     "rename": "renamer --regex --insensitive --find \".*(\\d{3}).*\\.png\" --replace \"$1.png\" \"snaps/*\"",
