@@ -1,4 +1,4 @@
-$(function () {
+﻿$(function () {
   var $window = $(window);
   var $body = $(document.body);
   var $entries = $('#entries');
@@ -16,7 +16,6 @@ $(function () {
 
   var GEN_II_START = 152;
   var UNOBTAINABLE = [
-    144, 145, 146, 150, 151, // Gen I legendaries
     172, 173, 174, 175, 236, 238, 239, 240, // Babies
     182, 186, 192, 199, 208, 212, 230, 233, // Evolution items
     196, 197, // Eeveelotuions
