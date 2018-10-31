@@ -20,7 +20,7 @@
     182, 186, 192, 199, 208, 212, 230, 233, // Evolution items
     196, 197, // Eeveelotuions
     235, // Unreleased Gen II
-    290, 291, 292, 352, 366, 367, 368, 385, // Unreleased Gen III
+    352, 366, 367, 368, 385, // Unreleased Gen III
   ];
 
   $.get('snaps/snaps.json')
